@@ -1,0 +1,23 @@
+{
+  "weights": "sam2/checkpoints/yolov8n.pt",
+  "detector_confidence": 0.4,
+  "detector_size": 640,
+  "max_candidates": 20,
+  "gallery_size": 20,
+  "similarity": 0.88,
+  "margin": 0.08,
+  "consecutive_frames": 3,
+  "confirmation_frames": 3,
+  "candidate_iou": 0.3,
+  "candidate_max_gap": 0.8,
+  "timeout": 30.0,
+  "prediction_seconds": 0.7,
+  "search_interval": 0.15,
+  "gallery_interval": 1.0,
+  "gallery_iou": 0.8,
+  "gallery_object_logit": 2.0,
+  "gallery_similarity": 0.92,
+  "person_match_iou": 0.5,
+  "other_person_iou": 0.1,
+  "csv_path": "runtime/reid_events.csv"
+}

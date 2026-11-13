@@ -1,0 +1,2 @@
+# Additional dependency; keep the existing CUDA torch/torchvision installation.
+ultralytics==8.4.173

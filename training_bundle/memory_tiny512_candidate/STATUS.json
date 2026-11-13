@@ -1,0 +1,11 @@
+{
+  "status": "NOT_TRAINED_NOT_VALIDATED",
+  "source_config": "sam2\\sam2\\configs\\sam2.1_training\\sam2.1_hiera_b+_MOSE_finetune.yaml",
+  "reference": "https://github.com/Gy920/segment-anything-2-real-time",
+  "license": "Apache-2.0",
+  "notes": [
+    "No checkpoint or dataset copied.",
+    "No gradient accumulation or validation early-stop implemented in this candidate.",
+    "Use a separate Linux training environment; benchmark VRAM before a full run."
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "A_replace_box_and_gt_after_recording",
+    "video": "runtime/A.mp4",
+    "resize_width": 640,
+    "target_mode": "object",
+    "init_frame": 0,
+    "init_bbox": [100, 100, 30, 100],
+    "max_frames": 300,
+    "gt": "runtime/A_gt.json"
+  },
+  {
+    "name": "person_regression_replace_box_and_gt",
+    "video": "runtime/person.mp4",
+    "resize_width": 640,
+    "target_mode": "person",
+    "init_frame": 0,
+    "init_bbox": [100, 20, 200, 400],
+    "max_frames": 300,
+    "gt": "runtime/person_gt.json"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "display_fps": 60,
+  "history_frames": 90,
+  "max_mask_age": 1.0,
+  "writer_queue": 120,
+  "opencv_threads": 4
+}

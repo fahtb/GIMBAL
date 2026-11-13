@@ -1,0 +1,11 @@
+{
+  "backend": "auto",
+  "width": 640,
+  "height": 480,
+  "fps": 30,
+  "mjpg": true,
+  "auto_exposure": null,
+  "auto_exposure_value": 1,
+  "manual_exposure_value": 0,
+  "exposure": -6
+}

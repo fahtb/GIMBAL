@@ -1,0 +1,19 @@
+{
+  "settings_version": "0.0.8",
+  "datasets_dir": "D:\\Sam\\datasets",
+  "weights_dir": "weights",
+  "runs_dir": "runs",
+  "uuid": "01812b11ec81e55e99f5cd4693e09e7fb225090b5d41e36634b2ca758f1491c5",
+  "sync": true,
+  "api_key": "",
+  "openai_api_key": "",
+  "clearml": true,
+  "comet": true,
+  "dvc": true,
+  "mlflow": true,
+  "raytune": true,
+  "tensorboard": false,
+  "wandb": false,
+  "vscode_msg": true,
+  "openvino_msg": true
+}

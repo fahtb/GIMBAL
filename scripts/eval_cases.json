@@ -1,0 +1,6 @@
+[
+  {"name":"beach", "video":"videos/test1.mp4", "init_frame":0, "init_bbox":[288.5185185,293.1111111,7.3744856,12.6419753], "resize_width":960, "max_frames":60, "visible_ranges":null, "reappearances":null},
+  {"name":"mountain", "video":"videos/test2.mp4", "init_frame":0, "init_bbox":[431,331,127,149], "resize_width":960, "max_frames":940, "visible_ranges":null, "reappearances":null},
+  {"name":"car300651", "video":"videos/test3.mp4", "init_frame":0, "init_bbox":[674.12,305.29,201.18,107.65], "resize_width":960, "max_frames":120, "visible_ranges":null, "reappearances":null},
+  {"name":"person", "video":"test_results/person_natural_120.avi", "init_frame":0, "init_bbox":[442.5,30,195,480], "resize_width":960, "max_frames":120, "visible_ranges":null, "reappearances":null}
+]
